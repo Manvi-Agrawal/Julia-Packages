@@ -1,0 +1,1 @@
+To run greet.jl, cd into `Example\greet` folder and then run `julia greet.jl`. It doesnt work with other paths for now like `Example` folder.
