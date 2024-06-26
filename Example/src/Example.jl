@@ -1,5 +1,7 @@
 module Example
 
+export greet, simple_add, type_multiply
+
 function greet()
     "Hello world!"
 end
