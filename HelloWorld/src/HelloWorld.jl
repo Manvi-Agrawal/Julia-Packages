@@ -1,7 +1,8 @@
-# using Pkg
-# Pkg.instantiate()
+using Pkg
+Pkg.instantiate()
 
-# using Example
+using Example
+
 
 module HelloWorld
 
