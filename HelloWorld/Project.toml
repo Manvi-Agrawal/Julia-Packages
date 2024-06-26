@@ -2,3 +2,6 @@ name = "HelloWorld"
 uuid = "4ad62292-8b22-469c-88e4-636333650330"
 authors = ["Manvi Agrawal <manvimeerut@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Example = "955d39d0-6269-4202-85ee-f1e4d8fb2efc"

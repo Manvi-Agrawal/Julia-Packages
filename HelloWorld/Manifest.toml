@@ -2,6 +2,9 @@
 
 julia_version = "1.10.2"
 manifest_format = "2.0"
-project_hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+project_hash = "991647f889d4ed87487faa744124297a38cb1a08"
 
-[deps]
+[[deps.Example]]
+path = "../Example"
+uuid = "955d39d0-6269-4202-85ee-f1e4d8fb2efc"
+version = "0.1.0"

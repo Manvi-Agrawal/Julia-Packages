@@ -1,12 +1,13 @@
+# using Pkg
+# Pkg.instantiate()
+
+# using Example
+
 module HelloWorld
 
-greet() = print("Hello World!")
+
+my_greet() = "MANVI"
 
 
 end # module HelloWorld
 
-module Manvi
-
-greet2() = print("Hi")
-
-end
